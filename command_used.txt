@@ -1,0 +1,60 @@
+    1  git version 2.42.0.windows.1
+    2  pwd
+    3  ls
+    4  cd download
+    5  cd Downloads
+    6  dc ..
+    7  cd ..
+    8  pwd
+    9  ls
+   10  cd 'ongoing class (shubh)'
+   11  ls
+   12  cd ..
+   13  cd test_app
+   14  ped
+   15  pwd
+   16  ls
+   17  cd Desktop
+   18  pwd
+   19  ls
+   20  cd Desktop
+   21  cd test_app
+   22  mkdir f1
+   23  mkdir f2
+   24  mkdir f3
+   25  mkdir f4 f5 f6 f7
+   26  rmdir f6
+   27  touch f1.py
+   28  touch f2.py f3.py f4.py
+   29  cat f3.py
+   30  cat f3.py
+   31  nano f1.py
+   32  cat f1.py
+   33  pwd
+   34  ls
+   35  cd ongoing class
+   36  cd ongoing
+   37  cd 'ongoing classes (shubh)'
+   38  cd 'ongoing class (shubh)'
+   39  pwd
+   40  cd ..
+   41  pwd
+   42  cd test_app
+   43  cd 'test_app'
+   44  pwd
+   45  cd test_app
+   46  pwd
+   47  mk dir f1
+   48  mkdir f1
+   49  mkdir f2 f3 f4
+   50  rmdir f2
+   51  rmdir f1
+   52  rm -r f1
+   53  touch f1.py
+   54  touch f2.txt
+   55  cat f2.txt
+   56  nano f2.txt
+   57  nano f2.txt
+   58  cat f2.txt
+   59  history
+   60  history >> command_used.txt
